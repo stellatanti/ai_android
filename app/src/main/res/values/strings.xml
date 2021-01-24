@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CartoonAI 1.0</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label"></string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Capture \nImage</string>
+    <string name="upload">Apply AI\n Cartoon</string>
+    <string name="previous">Previous</string>
+<!--    <string name="upload_url">http://192.168.1.29:5000</string>-->
+    <string name="upload_url">https://www.maploom.com/ai</string>
+
+    <string name="hello_first_fragment"></string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
